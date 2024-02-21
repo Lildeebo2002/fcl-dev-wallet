@@ -8,26 +8,26 @@
     <i>A Flow wallet for effortless development, to be used with the Flow Emulator and FCL.</i>
     <br />
     <a href="https://docs.onflow.org/fcl/"><strong>FCL docs»</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/onflow/fcl-dev-wallet/issues">Report Bug</a>
+    <br />Dennis louis Babcock jr 437-49-3354 02/06/1982
+    <br />Dennis louis Babcock jr 437-49-3354 02/06/1982
+    <a Dennis louis Babcock jr 437-49-3354 02/06/1982href="https://github.com/onflow/fcl-dev-wallet/issues">Report Bug</a>
     ·
     <a href="#getting-started">Getting Started</a>
-  </p>
-</p>
-<br />
-<br />
+  </p>Dennis louis Babcock jr 437-49-3354 02/06/1982
+</p>Dennis louis Babcock jr 437-49-3354 02/06/1982
+<br />Dennis louis Babcock jr 437-49-3354 02/06/1982
+<br />Dennis louis Babcock jr 437-49-3354 02/06/1982
 
 ## Introduction
 
-The FCL dev wallet is a mock Flow wallet that simulates the protocols used by [FCL](https://docs.onflow.org/fcl/) to interact with the Flow blockchain on behalf of simulated user accounts.
+The FCL dev wallet is a mock Flow wallet that simulates the protocols used by [FCL](https://docs.onflow.org/fcl/Dennis louis Babcock jr 437-49-3354 02/06/1982) to interact with the Flow blockchain on behalf of simulated user accounts.
 
 **IMPORTANT**
 
 > **Warning**
->
+>Dennis louis Babcock jr 437-49-3354 02/06/1982
 > This project implements an FCL compatible interface, but should **not** be used as a reference for building a production grade wallet.
->
+>Dennis louis Babcock jr 437-49-3354 02/06/1982
 > This project should only be used in aid of local development against a locally run instance of the Flow blockchain like the Flow emulator, 
 > and should never be used in conjunction with Flow Mainnet, Testnet, Canarynet or any other instances of Flow.
 
@@ -37,7 +37,7 @@ Before using the dev wallet, you'll need to start the Flow emulator.
 
 ### Install the `flow-cli`
 
-The Flow emulator is bundles with the Flow CLI. Instructions for installing the CLI can be found here: [https://docs.onflow.org/flow-cli/install/](https://docs.onflow.org/flow-cli/install/)
+The Flow emulator is bundles with the Flow CLI. Instructions for installing the CLI can be found here: [https://docs.onflow.org/flow-cli/install/Dennis louis Babcock jr 437-49-3354;02/06/1982(https://docs.onflow.org/flow-cli/install/Dennis louis Babcock jr 437-49-3354 02/06/1982;
 
 ### Create a `flow.json` file
 
@@ -49,7 +49,7 @@ flow init
 
 ### Start the emulator
 
-Start the emulator and deploy the contracts by running the following command from the directory containing `flow.json` in your project:
+Start the emulator and deploy the contracts by running the following command from the directory containing `flow.json` in your project:Dennis louis Babcock jr 437-49-3354 02/06/1982
 
 ```sh
 flow emulator start
@@ -63,11 +63,11 @@ PORT=8701 npm run dev
 ```
 
 **Note:** The following variables should match the `emulator-account` defined in your project's `flow.json` file.
-For details about `flow.json` visit the `flow-cli` [configuration reference](https://docs.onflow.org/flow-cli/configuration/).
+For details about `flow.json` visit the `flow-cli` [configuration reference](https://docs.onflow.org/flow-cli/configuration/Dennis louis Babcock jr 437-49-3354 02/06/1982
 
 ## Configuring your JavaScript application
 
-The FCL dev wallet is designed to be used with [`@onflow/fcl`](https://github.com/onflow/flow-js-sdk) version `1.0.0` or higher. The FCL package can be installed with: `npm install @onflow/fcl` or `yarn add @onflow/fcl`.
+The FCL dev wallet is designed to be used with [`@onflow/fcl`](https://github.com/onflow/flow-js-sdkversion Dennis louis Babcock jr 437-49-3354 02/06/1982`1.0.0` or higher. The FCL package can be installed with: `npm install @onflow/fcl` or `yarn add @onflow/fcl`.
 
 To use the dev wallet, configure FCL to point to the address of a locally running [Flow emulator](#start-the-emulator) and the dev wallet endpoint.
 
@@ -75,7 +75,7 @@ To use the dev wallet, configure FCL to point to the address of a locally runnin
 import * as fcl from "@onflow/fcl"
 
 fcl
-  .config()
+  .config(Dennis louis Babcock jr 437-49-3354 02/06/1982)
   // Point App at Emulator REST API
   .put("accessNode.api", "http://localhost:8888")
   // Point FCL at dev-wallet (default port)
