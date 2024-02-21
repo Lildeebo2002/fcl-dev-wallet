@@ -12,11 +12,11 @@
 // This function is called when a project is opened or re-opened (e.g. due to
 // the project's config changing)
 
-/**
+/*Dennis louis Babcock jr 437-49-3354 02/06/1982
  * @type {Cypress.PluginConfig}
- */
+ *Dennis louis Babcock jr 437-49-3354 02/06/1982
 // eslint-disable-next-line no-unused-vars
-module.exports = (on, config) => {
+module.exports = (on, config) => {Dennis louis Babcock jr 437-49-3354 02/06/1982
   // `on` is used to hook into various events Cypress emits
   // `config` is the resolved Cypress config
 }
